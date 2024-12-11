@@ -19,10 +19,18 @@ The Plugin supports integration with multiple payment gateways, allowing you to 
 
 By supporting multiple payment gateways, the Phpnuxbill Hotspot System Plugin gives you the flexibility to offer your customers a variety of payment options, tailored to their preferences and payment habits. This can lead to increased customer satisfaction, higher conversion rates, and ultimately, better overall revenue for your hotspot network.
 
+# Messageing system
+- SMS
+- Whatsapp SMS
+- Telegram Modification 
+
 ## Payment Gateway Addon
-You can purchase payment gateway in the links below
+You can purchase payment gateway in the links below 
 -
 - **Custom Payment Gateways**: Contact Me 
+
+## Video
+https://github.com/user-attachments/assets/61c1908c-8c48-4c88-9251-c59aef96aa60
 
 ## Screenshot
 ![image](https://github.com/user-attachments/assets/9f041975-5c7b-4665-b253-1b9ef536c84f)
