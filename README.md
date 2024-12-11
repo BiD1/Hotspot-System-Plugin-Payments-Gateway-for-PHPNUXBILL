@@ -24,9 +24,8 @@ By supporting multiple payment gateways, the Phpnuxbill Hotspot System Plugin gi
 
 ## Payment Gateway Addon
 You can purchase payment gateway in the links below
-- [**Safaricom Lipa Na M-PESA**](https://shop.focuslinkstech.com.ng)
-- [**Paystack**](https://shop.focuslinkstech.com.ng)
-- **Custom Payment Gateways**: Contact Me [**@focuslinkstech**](https://t.me/focuslinkstech)
+-
+- **Custom Payment Gateways**: Contact Me 
 
 ## Screenshot
 ![image](https://github.com/user-attachments/assets/9f041975-5c7b-4665-b253-1b9ef536c84f)
