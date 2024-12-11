@@ -10,7 +10,7 @@ Phpnuxbill Hotspot System Plugin is a powerful, advanced and versatile tool for 
 -	Scalability: The Phpnuxbill Hotspot System Plugin is designed to be scalable, allowing you to manage multiple hotspot locations and hundreds of concurrent users from a single centralized interface.
 
 Phpnuxbill Hotspot System Plugin offers a comprehensive and integrated solution for businesses that need to manage and monetize their public internet access points. By combining hotspot management, user authentication, bandwidth control, and billing capabilities, the plugin simplifies the process of running a successful hotspot network.
-## Payment Gateways:
+## Payment Gateways for Bangladesh & India
 The Plugin supports integration with multiple payment gateways, allowing you to offer customers a variety of payment options for accessing your hotspot network. This feature provides flexibility and convenience for your customers, while also ensuring that you can accept payments through the payment processor of your choice.
 - **PayU**: The plugin can be integrated with PayU, a global payment service provider that offers a wide range of payment methods and supports a variety of international markets, mostly India.
 - **SSLcommerz**: The Phpnuxbill Hotspot System Plugin can be integrated with SSLcommerz, a popular payment gateway in Bangladesh, allowing customers to make payments using a variety of local payment methods.
